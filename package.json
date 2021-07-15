@@ -1,0 +1,27 @@
+{
+    "name": "project-2",
+    "version": "1.0.0",
+    "description": "Decentralized Star Notary Service Project",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "dependencies": {
+        "openzeppelin-solidity": "^2.3.0",
+        "truffle-hdwallet-provider": "^1.0.17"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/agilalva/cryptostar-dapp.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/agilalva/cryptostar-dapp/issues"
+    },
+    "homepage": "https://github.com/agilalva/cryptostar-dapp#readme"
+}
